@@ -3,11 +3,11 @@ Express - Node.js Application for discovering pharmacies nearby
 
 **__Description/Functionalities__**
 
-Part 1 - Pipeline using OpenStreetMap data;
+Part 1 - Pipeline using OpenStreetMap data
 
-Part 2 - Software architecture, Mockup and Technical Prototype;
+Part 2 - Software architecture, Mockup and Technical Prototype
 
-Part 3 - Application;
+Part 3 - Application - allows users to find pharmacies nearby by using their current location
 
 
 **__Authors:__**
